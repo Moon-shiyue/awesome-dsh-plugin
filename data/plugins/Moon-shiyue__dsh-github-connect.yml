@@ -1,3 +1,4 @@
+# GitHub account connection plugin with a portable proxy/system-CA aware network layer.
 url: https://github.com/Moon-shiyue/dsh-github-connect
 name: Moon-shiyue/dsh-github-connect
 category: git
